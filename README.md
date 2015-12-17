@@ -8,7 +8,7 @@ Since the key string and the path of directory is designed to be input in comman
 
 ### 1. Run in Eclipse
 * Open the source file `src/FindWord.java` by Eclipse.
-* Click here to configure the run configuration.
+* Click here to configure the run configuration.   
 ![Click 'Run Configuration'](./help/1.png)
 * Input the string as follows.
 ![Configurations](./help/2.png)
